@@ -13,7 +13,7 @@ metadata:
     argocd/app-selector: rhtap/gitops=123456789012345678901234567890123456789012345678901234567890123
     backstage.io/kubernetes-id: test 
     backstage.io/techdocs-ref: dir:. 
-    janus-idp.io/tekton: 123456789012345678901234567890123456789012345678901234567890123
+    janus-idp.io/tekton: test
     quay.io/repository-slug: rhtap/123456789012345678901234567890123456789012345678901234567890123
   tags: ["java", "spring", "sscs", "sbom", "acs"] 
 spec:
